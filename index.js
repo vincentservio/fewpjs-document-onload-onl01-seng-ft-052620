@@ -1,6 +1,6 @@
 // Your code goes here
 document.addEventListener("DOMContentLoaded", function (){
-  document.getElementById("text").innerHTML = `
+  document.getElementById("text").innerText = `
   This is really cool!
   `
 )}
